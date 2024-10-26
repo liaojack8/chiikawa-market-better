@@ -4,6 +4,12 @@ Check storage of products in Chiikawa market.
 
 Remove annoying worldshopping button in the page.
 
+<img src="./pics/mac_safari.png" style="zoom:20%;" />
+
+<img src="./pics/ios_safari.png" style="zoom:20%;" />
+
+<img src="./pics/android.jpg" style="zoom:20%;" />
+
 ## How to Use
 
 ### All PC (Chromium based browsers)
