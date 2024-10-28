@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Chiikawa Market Better
 // @namespace    https://github.com/liaojack8
-// @version      v20241028.1
+// @version      v20241028.2
 // @author       liaojack8
 // @description  Check storage of products in Chiikawa market.
 // @homepage     https://github.com/liaojack8/chiikawa-market-better
@@ -12,8 +12,8 @@
 // @match        https://nagano-market.jp/products/*
 // @match        https://nagano-market.jp/collections/*/products/*
 // @match        https://nagano-market.jp/cart
-// @downloadURL  https://raw.githubusercontent.com/liaojack8/chiikawa-market-better/refs/heads/master/chiikawa-market-better.user.js
-// @updateURL    https://raw.githubusercontent.com/liaojack8/chiikawa-market-better/refs/heads/master/chiikawa-market-better.user.js
+// @downloadURL  https://raw.githubusercontent.com/liaojack8/chiikawa-market-better/master/chiikawa-market-better.user.js
+// @updateURL    https://raw.githubusercontent.com/liaojack8/chiikawa-market-better/master/chiikawa-market-better.user.js
 // @grant        none
 // ==/UserScript==
 
